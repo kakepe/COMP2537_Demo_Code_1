@@ -1,0 +1,13 @@
+Student Name: Rehan Khan
+Student Set: 1A
+
+finished- Home page with login/signup links if not logged in
+finished- Home page with member/logout links if logged in
+finished- Signup form creates session and redirects
+finished- Login form checks bcrypt and creates session
+finished- Members page with random image
+finished- Session expires after 1 hour
+finished- MongoDB session storage used
+finished- .env file used and not pushed
+finished- Hosted on Render
+50/50
